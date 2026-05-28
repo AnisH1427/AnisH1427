@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+<!-- <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-</a>
+</a> -->
 
 <br/><br/>
 
