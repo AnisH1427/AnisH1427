@@ -41,7 +41,7 @@ class AnishKhatiwada:
         self.role        = ["ML Engineer", "NLP Researcher", "Educator"]
         self.focus       = ["Low-Resource NLP", "Multimodal AI", "LLM Evaluation"]
         self.language    = "Nepali & English NLP"
-        self.current     = "RAG Systems · Hate Speech Detection · OCR Pipelines"
+        self.current     = "RAG Systems · Pluralistic Alignment · OCR Pipelines"
         self.fun_fact    = "I teach AI by day and research it by night 🌙"
 
     def say_hi(self):
