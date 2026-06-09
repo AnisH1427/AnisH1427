@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hi+there%2C+I%E2%80%99m+Anish+Khatiwada+%F0%9F%91%8B;Machine+Learning+Engineer+%7C+NLP+Researcher;Low-Resource+Language+%7C+Multimodal+AI;Building+Reliable+Language+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hi+there%2C+I%E2%80%99m+Anish+Khatiwada+%F0%9F%91%8B;Machine+Learning+Engineer+%7C+NLP+and+Computer+Vision+Researcher+%7C;Low-Resource+Language+%7C+Multimodal+AI;Building+Reliable+Language+Technologies" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ## 👤 About Me
 
-I am a **Machine Learning Engineer & Researcher** with a strong focus on **low-resource language processing**, **multimodal NLP**, and **LLM evaluation**. I am passionate about advancing commonsense reasoning, cross-cultural NLP evaluation, and building reliable language technologies for underrepresented communities.
+I am a **Machine Learning Engineer & Researcher** with a strong focus on **Computer Vision**,**low-resource language processing**, **multimodal NLP**, and **LLM evaluation**. I am passionate about advancing commonsense reasoning, cross-cultural NLP evaluation, and building reliable language technologies for underrepresented communities.
 
 ```python
 class AnishKhatiwada:
