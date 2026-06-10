@@ -66,7 +66,7 @@ class AnishKhatiwada:
 <td>
   <strong>First-Author Publication — LREC-COLING 2026</strong><br/>
   Designed and implemented a transformer-based ensemble architecture for hate speech detection and sentiment analysis in low-resource Nepali multimodal memes.<br/>
-  <a href="http://lrec-conf.org/proceedings/lrec2026/workshops/chipsal/2026.chipsal-1.0.pdf">📄 Read Paper</a> &nbsp;|&nbsp; <a href="YOUR_ARXIV_LINK_HERE">📋 arXiv Preprint</a> &nbsp;|&nbsp; <a href="YOUR_CODE_REPO_HERE">💻 Code</a>
+  <a href="http://lrec-conf.org/proceedings/lrec2026/workshops/chipsal/2026.chipsal-1.0.pdf">📄 Read Paper</a> &nbsp;|&nbsp; <a href="[YOUR_ARXIV_LINK_HERE](https://arxiv.org/pdf/2606.08770)">📋 arXiv Preprint</a> &nbsp;|&nbsp; <a href="YOUR_CODE_REPO_HERE">💻 Code</a>
 </td>
 </tr>
 <tr>
