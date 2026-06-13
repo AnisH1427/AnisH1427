@@ -39,9 +39,9 @@ I am a **Machine Learning Engineer & Researcher** with a strong focus on **Compu
 class AnishKhatiwada:
     def __init__(self):
         self.role        = ["ML Engineer", "NLP Researcher", "Educator"]
-        self.focus       = ["Low-Resource NLP", "Multimodal AI", "LLM Evaluation"]
+        self.focus       = ["Multimodal AI (Vision + Language)", "Low-Resource NLP", "LLM Evaluation"]
         self.language    = "Nepali & English NLP"
-        self.current     = "RAG Systems · Pluralistic Alignment · OCR Pipelines"
+        self.current     = "Reproducible Video Ingestion Pipelines · Robust CV Frameworks · RAG Systems . System Design"
         self.fun_fact    = "I teach AI by day and research it by night 🌙"
 
     def say_hi(self):
@@ -166,7 +166,7 @@ class AnishKhatiwada:
 📌 Low-Resource NLP          →  Nepali, Devanagari, South Asian languages
 📌 Multimodal AI             →  Vision-Language Models, Multimodal Meme Analysis
 📌 LLM Evaluation            →  Hallucination Mitigation, RAG, Benchmark Design
-📌 Computer Vision           →  
+📌 Computer Vision           →  Temporal Segmentation, Sports Analytics, Optical Character Recognition (OCR),  Robust Video Ingestion
 📌 OCR & Document AI         →  Multilingual Script Recognition
 📌 Commonsense Reasoning     →  Cross-cultural NLP Benchmarks
 ```
